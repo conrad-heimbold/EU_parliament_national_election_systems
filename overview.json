@@ -1,0 +1,169 @@
+[ 
+{ "EU_member_state_abbr": "AT", "EU_member_state": "Austria", "electoral_college_abbr": "--", "electoral_college": "--", 
+"num_of_electoral_districts": 1,                            "refs_for_num_of_electoral_districts": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 3, "law_loc_lvl2_num": "(1)"            } , 
+   { "law_short_org":"AT", "law_short_name": "B-VG",                       "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": "(2)"     }], 
+"num_of_seats": 19,                                          "refs_for_num_of_seats": 
+  [{ "law_short_org":"EU", "law_short_type": "EuCo", "law_short_num": 937, "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 3                                    }], 
+"election_day": "Sunday",                                    "refs_for_election_day":  
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 2, "law_loc_lvl2_num": "(1)"            }], 
+"active_voting_age": 16,                                     "refs_for_active_voting_age": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 10                                      } , 
+   { "law_short_org":"AT", "law_short_name": "B-VG",                       "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": "(1)"     }], 
+"passive_voting_age": 18,                                    "refs_for_passive_voting_age": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 29, "law_loc_lvl2_num": "(1)"           } , 
+   { "law_short_org":"AT", "law_short_name": "B-VG",                       "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": "(3)"     }], 
+"general_voting_method": "Proportional Representation",      "refs_for_general_voting_method": 
+  [{ "law_short_org":"AT", "law_short_name": "B-VG",                       "law_short_year": 1945, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "23a", "law_loc_lvl2_num": "(1)"     }],
+"detailed_voting_method": "D-Hondt",                         "refs_for_detailed_voting_method": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": "(3)-(6)"       }], 
+"preferential_voting": true,                                 "refs_for_preferential_voting": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 63, "law_loc_lvl2_num": "(1)"           }],
+"election_threshold_by_law_in_percent": 4.0,                 "refs_for_election_threshold_by_law_in_percent": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 77, "law_loc_lvl2_num": "(2)"           }],
+"compulsory_voting": false,                                  "refs_for_compulsory_voting": 
+  [                                                                                                                                                                                       ],
+"list_registration_criteria_money_deposit": false,           "refs_for_list_registration_criteria_money_deposit": 
+  [                                                                                                                                                                                       ],
+"list_registration_criteria_elected_reps": "3 MNP or 1 MEP", "refs_for_list_registration_criteria_elected_reps": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": "(2)"           }],
+"list_registration_criteria_signatures": 2600,               "refs_for_list_registration_criteria_signatures": 
+  [{ "law_short_org":"AT", "law_short_name": "EuWO",                       "law_short_year": 1996, "law_loc_lvl1_type": "§", "law_loc_lvl1_num": 30, "law_loc_lvl2_num": "(2)"           }],
+"list_registration_criteria_other": false,                   "refs_for_list_registration_criteria_other": 
+  [                                                                                                                                                                                       ],
+"num_of_participating_candidate_lists_2014": 9,              "refs_for_num_of_participating_candidate_lists_2014": 
+  [{ "election_short_country":"AT", "election_short_level":"EUR", "election_short_year": 2014                                                                                            }], 
+"num_of_participating_candidate_lists_2019": "approx. 10",   "refs_for_num_of_participating_candidate_lists_2019": 
+  [{ "election_short_country":"AT", "election_short_level":"EUR", "election_short_year": 2014                                                                                            } ,
+   { "election_short_country":"AT", "election_short_level":"NAT", "election_short_year": 2017                                                                                            }] 
+}, 
+
+
+
+
+{ "EU_member_state_abbr": "BE", "EU_member_state": "Belgium", "electoral_college_abbr": "BE-NL", "electoral_college": "Dutch-speaking electoral college", 
+"num_of_electoral_districts": 3,                            "refs_for_num_of_electoral_districts": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num":"§1"         }], 
+"num_of_seats": 12,                                          "refs_for_num_of_seats": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num":"§§2,3,4"    } ,
+   { "law_short_org":"BE", "law_short_type": "royal decree", "law_short_num":  31699, "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1                         }], 
+"election_day": "Sunday",                                    "refs_for_election_day":  
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 19                                  }], 
+"active_voting_age": 18,                                     "refs_for_active_voting_age": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num":"§1, nr2"     }], 
+"passive_voting_age": 21,                                    "refs_for_passive_voting_age": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 22, "law_loc_lvl2_num":"sent. 2"    }], 
+"general_voting_method": "Proportional Representation",      "refs_for_general_voting_method": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                }], 
+"detailed_voting_method": "D-Hondt",                         "refs_for_detailed_voting_method": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                }], 
+"preferential_voting": true,                                 "refs_for_preferential_voting": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                }],
+"election_threshold_by_law_in_percent": 5.0,                 "refs_for_election_threshold_by_law_in_percent": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "165bis"                           }], 
+"compulsory_voting": true,                                   "refs_for_compulsory_voting": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 39                                  }], 
+"list_registration_criteria_money_deposit": false,           "refs_for_list_registration_criteria_money_deposit": 
+  [                                                                                                                                                                                       ],
+"list_registration_criteria_elected_reps": "5 (MNP or MNS)", "refs_for_list_registration_criteria_elected_reps": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num":"§1"         }], 
+"list_registration_criteria_signatures": 5000,               "refs_for_list_registration_criteria_signatures": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num":"§1"         }], 
+"list_registration_criteria_other": false,                   "refs_for_list_registration_criteria_other": 
+  [                                                                                                                                                                                       ],
+"num_of_participating_candidate_lists_2014": 7,              "refs_for_num_of_participating_candidate_lists_2014": 
+  [{ "election_short_country":"BE-NL", "election_short_level":"EUR", "election_short_year": 2014                                                                                         }], 
+"num_of_participating_candidate_lists_2019": null,           "refs_for_num_of_participating_candidate_lists_2019": 
+  [                                                                                                                                                                                       ]
+}, 
+
+
+
+{ "EU_member_state_abbr": "BE", "EU_member_state": "Belgium", "electoral_college_abbr": "BE-FR", "electoral_college": "French-speaking electoral college", 
+"num_of_electoral_districts": 3,                            "refs_for_num_of_electoral_districts": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num":"§1"         }], 
+"num_of_seats": 8,                                          "refs_for_num_of_seats": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num":"§§2,3,4"    } ,
+   { "law_short_org":"BE", "law_short_type": "royal decree", "law_short_num":  31699, "law_short_year": 2018, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 1                         }], 
+"election_day": "Sunday",                                    "refs_for_election_day":  
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 19                                  }], 
+"active_voting_age": 18,                                     "refs_for_active_voting_age": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num":"§1, nr2"     }], 
+"passive_voting_age": 21,                                    "refs_for_passive_voting_age": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 22, "law_loc_lvl2_num":"sent. 2"    }], 
+"general_voting_method": "Proportional Representation",      "refs_for_general_voting_method": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                }], 
+"detailed_voting_method": "D-Hondt",                         "refs_for_detailed_voting_method": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                }], 
+"preferential_voting": true,                                 "refs_for_preferential_voting": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                }],
+"election_threshold_by_law_in_percent": 5.0,                 "refs_for_election_threshold_by_law_in_percent": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "165bis"                           }], 
+"compulsory_voting": true,                                   "refs_for_compulsory_voting": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 39                                  }], 
+"list_registration_criteria_money_deposit": false,           "refs_for_list_registration_criteria_money_deposit": 
+  [                                                                                                                                                                                       ],
+"list_registration_criteria_elected_reps": "5 (MNP or MNS)", "refs_for_list_registration_criteria_elected_reps": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num":"§1"         }], 
+"list_registration_criteria_signatures": 5000,               "refs_for_list_registration_criteria_signatures": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num":"§1"         }], 
+"list_registration_criteria_other": false,                   "refs_for_list_registration_criteria_other": 
+  [                                                                                                                                                                                       ],
+"num_of_participating_candidate_lists_2014": 12,             "refs_for_num_of_participating_candidate_lists_2014": 
+  [{ "election_short_country":"BE-FR", "election_short_level":"EUR", "election_short_year": 2014                                                                                         }], 
+"num_of_participating_candidate_lists_2019": null,           "refs_for_num_of_participating_candidate_lists_2019": 
+  [                                                                                                                                                                                       ]
+}, 
+
+
+
+{ "EU_member_state_abbr": "BE", "EU_member_state": "Belgium", "electoral_college_abbr": "BE-DE", "electoral_college": "German-speaking electoral college", 
+"num_of_electoral_districts": 3,                            "refs_for_num_of_electoral_districts": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num":"§1"         }], 
+"num_of_seats": 1,                                          "refs_for_num_of_seats": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num":"§5"        }], 
+"election_day": "Sunday",                                    "refs_for_election_day":  
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 19                                  }], 
+"active_voting_age": 18,                                     "refs_for_active_voting_age": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 1, "law_loc_lvl2_num":"§1, nr2"     }], 
+"passive_voting_age": 21,                                    "refs_for_passive_voting_age": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 22, "law_loc_lvl2_num":"sent. 2"    }], 
+"general_voting_method": "First-past-the-post voting",       "refs_for_general_voting_method": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 10, "law_loc_lvl2_num":"§5"        } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                }], 
+"detailed_voting_method": "D-Hondt",                         "refs_for_detailed_voting_method": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 167                                }], 
+"preferential_voting": true,                                 "refs_for_preferential_voting": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 29                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 144                                }],
+"election_threshold_by_law_in_percent": 5.0,                 "refs_for_election_threshold_by_law_in_percent": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": 36                                 } ,
+   { "law_short_org":"BE", "law_short_type": "law", "law_short_num":  41255, "law_short_year": 1894, "law_loc_lvl1_type": "art.", "law_loc_lvl1_num": "165bis"                           }], 
+"compulsory_voting": true,                                   "refs_for_compulsory_voting": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 39                                  }], 
+"list_registration_criteria_money_deposit": false,           "refs_for_list_registration_criteria_money_deposit": 
+  [                                                                                                                                                                                       ],
+"list_registration_criteria_elected_reps": "5 (MNP or MNS)", "refs_for_list_registration_criteria_elected_reps": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num":"§1"         }], 
+"list_registration_criteria_signatures": 200,                "refs_for_list_registration_criteria_signatures": 
+  [{ "law_short_org":"BE", "law_short_type": "law", "law_short_num":    145, "law_short_year": 1989, "law_loc_lvl1_type":"art.", "law_loc_lvl1_num": 21, "law_loc_lvl2_num":"§1"         }], 
+"list_registration_criteria_other": false,                   "refs_for_list_registration_criteria_other": 
+  [                                                                                                                                                                                       ],
+"num_of_participating_candidate_lists_2014": 6,              "refs_for_num_of_participating_candidate_lists_2014": 
+  [{ "election_short_country":"BE-DE", "election_short_level":"EUR", "election_short_year": 2014                                                                                         }], 
+"num_of_participating_candidate_lists_2019": null,           "refs_for_num_of_participating_candidate_lists_2019": 
+  [                                                                                                                                                                                       ]
+}
+
+
+]
